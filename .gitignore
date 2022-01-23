@@ -1,0 +1,10 @@
+# Import cache
+.import/
+
+# Binaries
+bin/
+build/
+lib/
+
+# macOS specific
+.DS_Store
